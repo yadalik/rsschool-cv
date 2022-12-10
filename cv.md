@@ -14,7 +14,7 @@ I have a wide experience in the field of volunteering and in the fild of helping
 when it comes to the field of IT science, however, I am ready to try my best, which I also showed during my studies and working on projects. My strenghts include:
 ability to work both in teams and alone, ability to communicate and find creative and new sollutions to problems. 
 ### Skills and proficiency: ###
-Python, Github, Git, JavaScript Basics, basics of FIGMA, knowledge of Social Media 
+Python, Github, Git, JavaScript Basics, basics of FIGMA, knowledge of Social Media
 ## Solutions ## 
 Solution of **Greed is good** from CodeWars 
 def score(dice):
@@ -34,6 +34,6 @@ def score(dice):
 
     return tot
 ### Languages: ###
-Russian-native, english-B2-C1(Duolingo English Test-140),Spanish-A2, Italian-A2
+Russian-native, english-B2-C1(Duolingo English Test-140),Spanish-A2, Italian-A2, had an opportunity to practice my language skills abroad
 ### Projects which I have done ###
 CV
