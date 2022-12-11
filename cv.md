@@ -34,6 +34,7 @@ def score(dice):
 
     return tot
 ### Languages: ###
+
 Russian-native, english-B2-C1(Duolingo English Test-140),Spanish-A2, Italian-A2, had an opportunity to practice my language skills abroad
 ### Projects which I have done ###
 CV

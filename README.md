@@ -1,1 +1,2 @@
-https://crystalguts.github.io/rsschool-cv/cv
+
+ https://crystalguts.github.io/rsschool-cv/
